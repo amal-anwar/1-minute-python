@@ -36,3 +36,11 @@ output = 1
 h.count ("A")
 output = 1
 '''
+
+>>> a = 'amal'
+>>> len(a) #prints length of string
+4
+
+>>> b = 213
+>>> print(str(b)) #prints non-string to string
+213
