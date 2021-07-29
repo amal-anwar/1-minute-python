@@ -11,3 +11,7 @@ elif ui_input == 5:
     print('five')
 else:
     print ('number not valid')
+__________________________________________________________________
+
+#Program that will print int with string 
+print('I am ' + str(29) + ' years old.')
