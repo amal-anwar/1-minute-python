@@ -13,3 +13,13 @@ if typedPassword == '12345':
     print('That password is one that an idiot puts on their luggage.')
 if typedPassword != secretPassword:
     print('Acess Denied')
+ _____________________________________________________________________________________
+
+name = 'Mary'
+password = 'swordfish'
+if name == 'Mary':
+    print('Hello, Mary')
+if password == 'swordfish':
+    print('Access granted.')
+else:
+    print('Wrong password.')
