@@ -6,4 +6,4 @@ print(date.today())
 
 print(date.today().year)
 #will give 
-#2021
+#current year
